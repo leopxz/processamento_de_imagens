@@ -18,8 +18,18 @@ Este repositório contém um projeto de **Processamento de Imagens** que utiliza
 - **Matplotlib**: Exibição gráfica de imagens e resultados.
 
 ## Estrutura do Projeto
-
-├── imagens/ # Imagens de exemplo usadas no projeto ├── src/ # Código fonte do projeto │ ├── filtros.py # Aplicação de filtros de imagem │ ├── ajustes.py # Ajuste de brilho, contraste e saturação │ ├── main.py # Script principal para execução do projeto ├── README.md # Documentação do projeto └── requirements.txt # Dependências do projeto
+<br>
+├── image-processing/ <br>
+├── tests/<br>
+└── __init.py__<br>
+└── test_processing.py<br>
+|<br>
+├── .gitgnore<br>
+├── LICENSE <br>
+├── README.md <br>
+├── __init.py__<br>
+├── requirements.txt<br>
+└── setup.py<br>
 
 
 ## Como Executar
