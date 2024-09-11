@@ -23,7 +23,7 @@ Este repositório contém um projeto de **Processamento de Imagens** que utiliza
 ├── tests/<br>
 └── __init.py__<br>
 └── test_processing.py<br>
-|<br>
+ |<br>
 ├── .gitgnore<br>
 ├── LICENSE <br>
 ├── README.md <br>
